@@ -1,0 +1,7 @@
+Here's a feature update by 1 Nov 2021
+Castle Defense has been released new version 0.11.3.
+Update:
+- New XP earning structure for Daily Challenge & 1vs1 Challenge.
+- Contract Request Extension: Players can send a request for a contract extension to sponsor.
+- Reduce automatically terminate contract time from 36 hours to 24 hours for users who do not play the game.
+(Give a warning at 23 hours via E-mail, and automatically terminate after 24 hours).
