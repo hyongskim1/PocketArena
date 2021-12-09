@@ -1,0 +1,9 @@
+Here's a feature update by 9 Dec 2021
+Castle Defense has been released new version 0.12.7.
+
+Update:
+- Add new items for Knight and Wizard which help to enhance their power and ability.
+- Open new stage 21, 22 and 23.
+- Player now can select the "Map" button in Home scene to go to Land Map Viewer.
+- Add Puzzle Captcha security check to prevent botting.
+- Adjust the XP reward to balance the effort-reward in all stages (make it more attractive to play high stages).
