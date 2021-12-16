@@ -1,0 +1,6 @@
+Here's a feature update by 16 Dec 2021
+Castle Defense has been released new version 0.12.10.
+
+Update:
+- Open new stage 24, 25 and 26.
+- Open stage 21-26 in 1vs1 challenge mode.
