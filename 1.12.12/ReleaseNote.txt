@@ -1,0 +1,5 @@
+Here's a feature update by 20 Dec 2021
+Castle Defense has been released new version 1.12.12.
+
+Update:
+- Reduce the difficulty in stage 21, 22.
