@@ -1,0 +1,4 @@
+Castle Defense has been released new version 1.12.21 by 30 Dec 2021
+
+Update:
+- Open new stages 30, 31 and 32.
