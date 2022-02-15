@@ -1,0 +1,10 @@
+Castle Defense has been released new version v2.2.18 by 15 Feb 2022
+
+Update:
+- Apply Public Pool, Arena Pool, tXP, cXP and new revenue share structure.
+- Apply Castle Arena, and the Luzern map. User can attack opponent on the map, occupies land, earning XP.
+- Apply new PVE structure, after user complete 10 stages, his castle receive a free land (if available)
+- Apply Message box, user can check all message such as: contract sign, terminate,.....
+- Remove 1vs1 Challenge.
+- Update User Profile: User can set the conditions to auto accept contract from sponsor or not. And User can contact the owner by sending his Telegram ID to the player..
+- Some other UI changes & bug fixes.
