@@ -1,0 +1,5 @@
+Castle Defense has been released new version v2.2.26 by 17 Feb 2022
+
+Update:
+- More stable version.
+- Bug fixes.
