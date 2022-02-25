@@ -1,0 +1,7 @@
+Castle Defense has been released new version v2.2.40 by 25 Feb 2022
+
+Update:
+- Removed Minimum Defense Required rule, user need to defend all attacks to keep land.
+- Keep remained pending attacks and hand those over to new landowner even if landowner is changed.
+- Reduced the loading delay between Home and Map menu.
+- Bug fixes.
