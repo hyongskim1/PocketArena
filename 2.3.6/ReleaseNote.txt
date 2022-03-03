@@ -1,0 +1,7 @@
+Castle Defense has been released new version v2.3.6  by 3 Mar 2022
+
+Bug fixes:
+- Prevent sending multiple attack to a land from 1 castle.
+- User successfully defended but still lost land.
+- Player can not attack the land.
+- Other minor issues
