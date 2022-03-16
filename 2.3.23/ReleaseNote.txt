@@ -1,0 +1,8 @@
+Castle Defense has been released new version v2.3.23  by 16 Mar 2022
+
+Update:
+- Add new feature that allow players to save their attack pattern and load to reuse later in Castle Arena.
+- Change the XP distribution rate to Public Pool from 10% to 20%.
+- Update sponsor's castle list:
+   Show "Automatic Contract" list as default.
+   Replace "New Castle" list with "75% to Player" (Castles with 75% XP share to player).
