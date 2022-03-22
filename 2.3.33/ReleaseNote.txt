@@ -1,0 +1,5 @@
+Castle Defense has been released new version v2.3.33  by 22 Mar 2022
+
+Update:
+- Attacker cannot attack the land that he has failed to attack or defend in next 24h.
+- Player can terminate only one contract per day.
