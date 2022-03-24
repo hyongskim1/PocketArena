@@ -1,0 +1,6 @@
+Castle Defense has been released new version v2.3.44  by 24 Mar 2022
+
+Update:
+-Improve map loading
+-Update Receive Message by email button in user's profile.
+-update text for Sending Attack popup, inform the user that the result will be notified in 12 hours.
