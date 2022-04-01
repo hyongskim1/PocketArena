@@ -1,0 +1,5 @@
+Castle Defense has been released new version v2.3.64  by 1 Apr 2022
+
+Update:
+- Improve stage editor UI.
+- You can open Your Profile and Settings in Help menu.
