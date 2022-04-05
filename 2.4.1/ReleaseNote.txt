@@ -1,0 +1,5 @@
+Castle Defense has been released new version v2.4.1  by 5 Apr 2022
+
+Update:
+- Change the price of Castle HP and Castle Shield from 2 XP to 6 XP.
+- Limit to use each Castle Skill in case of Arena battles. User can use only one time per each defense
