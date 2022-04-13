@@ -1,0 +1,11 @@
+Castle Defense has been released new version v2.4.8  by 13 Apr 2022
+
+Update:
+Change the XP sharing structure when completing an Arena battle.
+
+*Current structure:
+- When an Arena battle is completed → Winner take both XP entry fees (100% of both XP entry fee).
+* New structure:
+When an Arena battle is completed → 
+- Winner take 80% of both XP entry fees.
+- Loser take 20% of both XP entry fees.
