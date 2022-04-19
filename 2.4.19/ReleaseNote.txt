@@ -1,0 +1,5 @@
+Castle Defense has been released new version v2.4.19  by 19 Apr 2022
+
+Update:
+1. When user has started defending an attack on a land, and hasn't finished it --> user cannot start defending another attack on that land.
+2. Update the info text in Create Attack popup to reflect new XP sharing structure.
