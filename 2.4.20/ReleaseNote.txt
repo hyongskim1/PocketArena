@@ -1,0 +1,11 @@
+Castle Defense has been released new version v2.4.20  by 21 Apr 2022
+
+Update:
+1. Add flag feature which will show the selected image as flag in the game map.
+(In 1st time, flag image will use castle owner's avatar as default flag image. Then castle owner can change it in Castle Market if want)
+
+2. Update 2 result cases in challenge result:
+- Change "Your attack is expired" result to "Opponent didn't defend" result.
+- Add detail scene for "You didn't defend" result.
+
+3. Improve scrolling by mouse wheel in all list.
