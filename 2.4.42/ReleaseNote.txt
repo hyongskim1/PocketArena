@@ -1,0 +1,15 @@
+Castle Defense has been released new version v2.4.42  by 29 Apr 2022
+
+Update:
+1. Update the UX/UI for creating attack and attack strategy.
+	+ Current version: when user want to attack, he can create attack strategy and send attack in same process.
+	+ New version: when user want to attack, he always need to choose from the attack strategy list. 
+	If user want to create new attack strategy, he can do it separately.
+	
+2. Add a default attack strategy from server while creating attack (previously it's from game source).
+
+3. Update the default Knight/Wizard character image.
+
+4. Add "Stage Clear" data in the castle information.
+
+5. In land map, show flag image in 2x2 square or higher (previously 3x3 square or higher).
