@@ -1,0 +1,10 @@
+Castle Defense has been released new version v2.4.42  by 6 May 2022
+
+Update:
+1. Critical bug fix: in some certain conditions, game use the wrong attack data for all attacks.
+2. Upgrade new image for Dark Galio.
+3. Add Simulation feature in attack editor.
+4. Add new challenge rule:
+-Player can play against one opponent one time per day.
+-He can play against the same opponent one more time on same day, but will get penalty as cannot play against that opponent on next day.
+-If user do so, in next 2 days, player can attack that opponent again (back to no.1).
