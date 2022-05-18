@@ -1,0 +1,8 @@
+Castle Defense has been released new version v2.5.27  by 18 May 2022
+
+Update:
+1. Prevent non-verified email account to rent Castle and play Arena battle.
+2. Add a function to validate attack strategy when user use it to attack or save it on server.
+3. Prevent blocked user to access/play Castle Defense game.
+4. Add decorations to King's land.
+5. Use Player XP instead of Arena Pool XP when user use Castle Skills (+20 HP, 10 sec).
