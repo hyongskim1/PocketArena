@@ -1,0 +1,8 @@
+Castle Defense has been released new version v2.5.33  by 20 May 2022
+
+Update:
+1. Update % sharing to Public Pool from 20% to 50%.
+2. Restrict for King to attack City land.
+3. Restrict repeatedly challenge between two accounts.
+- Player can only attack one opponent one time per day → then can re-attack after 24 hours.
+- But if that opponent also attack player on same day → then both player and the opponent can re-attack each other after 72 hours.
