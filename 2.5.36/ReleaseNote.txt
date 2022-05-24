@@ -1,0 +1,4 @@
+Castle Defense has been released new version v2.5.36  by 24 May 2022
+
+Update:
+1. Enlarge My Attack Strategies popup as full screen size to easier to use in mobile device.
