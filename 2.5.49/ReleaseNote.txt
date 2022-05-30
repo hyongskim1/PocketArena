@@ -1,0 +1,10 @@
+Castle Defense has been released new version v2.5.49  by 30 May 2022
+
+Update:
+1. Add Telegram push message for Arena Battle event.
+User will get Telegram message when:
+- Someone attack his land.
+- Get the result of his attack to other player's land.
+- The attack to his land is about run out of time.
+
+2. Restrict Arena battle for player without KYC who already got more than 1,500 player XP.
