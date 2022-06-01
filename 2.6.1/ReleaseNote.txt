@@ -1,0 +1,4 @@
+Castle Defense has been released new version v2.6.1  by 1 Jun 2022
+
+Update:
+1. Update text and image in KYC popup.
