@@ -1,0 +1,5 @@
+Castle Defense has been released new version v2.6.3a  by 2 Jun 2022
+This update is for Android app only
+
+Update:
+1. Fix stuck problem when Guest users go to map in Android App version.
