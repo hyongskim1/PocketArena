@@ -1,0 +1,7 @@
+Castle Defense has been released new version v2.6.6  by 3 Jun 2022
+
+Update:
+1. Change the XP:E-point exchange rate for each option in "Purchase E-point", and:
+- In Arena battle, player can purchase each option for maximum 2 times.
+- After they did purchase 2 times, the purchase option is disable.
+2. Show guide popup when user access land map for 1st-time.
