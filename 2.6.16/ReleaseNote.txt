@@ -1,0 +1,7 @@
+Castle Defense has been released new version v2.6.16  by 9 Jun 2022
+
+Update:
+1. Use different color of knight on map based on entry fee and show entry fee beside Castle Number.
+2. Add 3 more background music for playing scene.
+User can choose the music they want to use in Help popup.
+3. Improve KYC UX/UI: easier to do KYC and detail and clearer guide text.
