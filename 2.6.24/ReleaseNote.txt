@@ -1,0 +1,7 @@
+Castle Defense has been released new version v2.6.24  by 17 Jun 2022
+
+Update:
+1. When user click [Defend Your Land] button in Telegram push message, now it will open the game and go to [PROTECT YOUR LAND] tab directly.
+2. Improve popup design which is shown after sending attack.
+3. Add [HELP] button in KYC popup
+4. Add [SUPPORT] link in Settings popup.
