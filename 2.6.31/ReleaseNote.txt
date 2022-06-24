@@ -1,0 +1,6 @@
+Castle Defense has been released new version v2.6.31  by 24 Jun 2022
+
+Update:
+1. Increase exchange rate a little bit more between Arena Pool XP and E-Point in E-Point shop 
+2. Reduce the maximum number of pending attack in all zone
+3. Improve the background in game for Desert, Snow and Fantasy area.
