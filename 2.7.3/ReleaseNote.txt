@@ -1,0 +1,5 @@
+Castle Defense has been released new version v2.7.3  by 4 Jul 2022
+
+Update:
+1. The Spectator mode has been added. Player can watch the replay of battle from the attack challenge's result.
+2. UI improved for Result scenes.
