@@ -1,0 +1,12 @@
+Castle Defense has been released new version v2.7.18  by 13 Jul 2022
+
+Update:
+(1) Add sorting option in [MY ATTACK STRATEGIES] list
+
+(2) After user creates new strategy, returned to that stage tab (not stage 1)
+
+(3) User can get Arena Pool XP reward only once per a stage and per a day.
+
+(4) Update UI in Daily Challenge list.
+
+(5) Add Speed up buttons(x2 x3) in [Spectator] mode.
