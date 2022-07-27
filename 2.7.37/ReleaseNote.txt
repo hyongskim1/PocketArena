@@ -1,0 +1,4 @@
+Castle Defense has been released new version v2.7.37  by 27 Jul 2022
+
+Update:
+Guest player can rent castle and join Arena battles.
