@@ -1,0 +1,8 @@
+Castle Defense has been released new version v2.8.8  by 3 Aug 2022
+
+Update:
+(1) Open replay for the battle with King.
+(2) Increase the number of maximum troops in each path(on Desert, Snow, Fantasy, City and King land).
+(3) Add Attack Buff-Up for Attacker base on Castle's power
+(4) Update Intro/Result scene in replay
+(5) In case of Guest user, hide [CREATE NEW] button in [MY ATTACK STRATEGIES]
