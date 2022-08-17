@@ -1,0 +1,7 @@
+Castle Defense has been released new version v2.8.29  by 17 Aug 2022
+
+Update:
+(1) Buy Arena XP using mPOC
+(2) In case that new wave is coming from out of screen, move the screen view automatically.
+(3) Change all monster icon as new one.
+(4) Improve Monster Guide popup style in Setting menu.
