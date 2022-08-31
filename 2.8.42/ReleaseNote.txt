@@ -1,0 +1,8 @@
+Castle Defense has been released new version v2.8.42  by 31 Aug 2022
+
+Update:
+(1) Update [Sponsor's Castle] popup including new [INFO] tab
+(2) Improve some UX/UI in [Attack Editor]
+(3) Open spectator mode for City zone
+(4) Update UI in [TOWER UPGRADE] popup
+(5) Update UI in [Arena Pool XP] popup
