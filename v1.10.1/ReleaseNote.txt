@@ -1,4 +1,4 @@
-Castle Defense has been updated on live as v0.10.5
+Castle Defense has been launched by 16 Oct 2021
 Updated things
 (1) Player can install Lightning Tower on only 30% of total defense position.
 (2) The maximum Level of Cannon and Lightning Tower is limited in each stage.
