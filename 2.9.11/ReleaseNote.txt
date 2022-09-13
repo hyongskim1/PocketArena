@@ -1,0 +1,9 @@
+Castle Defense has been released new version v2.9.11  by 13 Sept 2022
+
+Update:
+1. Open [Spectator] mode in Fantasy zone.
+2. Apply improved Marauder monster character in playing scene.
+3. Add buttons in 2D L1 map to go to 2.5D L2 directly.
+4. Update [Not enough XP for entry fee] toast message to popup.
+5. Update [Max troops for this attack] popup.
+6. Reinforce security and protect cheating
