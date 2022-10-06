@@ -1,0 +1,12 @@
+Castle Defense has been released new version v2.10.22  by 6 Otc 2022
+
+Update:
+1. Open [Spectator] mode in Snow zone
+2. Open [Spectator] mode in Desert zone
+3. Add tutorial for beginner
+4. Update UX/UI in [Attack Strategy] popup
+5. Add [Recommended Battles] tab in [My Battle] menu for quick attack
+6. Add 4 more pattern in all single playing stage and use it randomly.
+7. Add [Town] button in map scene
+8. Update [Go To] button UI in order to show it in 2.5D map scene as well with collapse feature.
+9. Use new Brigand Monster character in playing scene.
