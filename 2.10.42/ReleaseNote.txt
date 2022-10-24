@@ -1,0 +1,9 @@
+Castle Defense has been released new version v2.10.42  by 24th Otc 2022
+
+Update:
+- Add [Skip Tutorial] button to let user to end tutorial at anytime
+- Add "Fast Forward" step for stage 1 in Tutorial
+- Select default strategy in Tutorial randomly.
+- Update some UX/UI of [Create New Attack] Popup.
+- Add Sound on/off feature in Replay module.
+- Amend some texts
